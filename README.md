@@ -19,7 +19,9 @@ If you're new and need some guidance feel free to visit out [forum](https://foru
 - `@Filip Rakowski` (frontend and best practices)
 - `@pkarw` (integrations and backend)
 - `@ptomczyk` (frontend and best practices)
-- `@lromanowicz` (testing, magento, backend)
+- `@lukeromanowicz` (testing, magento, backend)
+-  Degi Kwag (docs)
+
 
 Want to invest some time in building the future of eCommerce? we are looking for core team members willing to help us make VS even more awesome. Interested - contact `@Filip Rakowski` on slack
 
@@ -65,7 +67,16 @@ PS: Check [StorefrontUI](https://github.com/DivanteLtd/storefront-ui/) - our UI 
 
 ## Is it production ready?
 
-Yes! There are more than 10 implementations happening right now and many live shops (check [awesome Vue Storefront list](https://github.com/frqnck/awesome-vue-storefront)).
+Yes! There are more than 20 implementations happening right now and many live shops (check [awesome live projects on Vue Storefront](https://www.vuestorefront.io/live-projects/)).
+
+## Browser Compatibility
+
+* last 2 Chrome versions
+* last 2 Firefox versions
+* last 2 Edge versions
+* modern browsers
+
+For an up-to-date list of supported browsers please see "browserslist" in package.json
 
 ## Join the community on Slack
 
@@ -221,10 +232,6 @@ More on hosting can be found in [the documentation](https://docs.vuestorefront.i
 ## Other platforms
 Vue Storefront is platform agnostic which means it can be connected to virtually any CMS. Please take a look at [Pimcore bridge](https://github.com/DivanteLtd/coreshop-vsbridge) to give you an idea of how other platforms can be connected. Any support for integrating Prestashop, Shopify ... - much appreciated.
 
-## The license
-
-Vue Storefront source code is completely free and released under the [MIT License](https://github.com/DivanteLtd/vue-storefront/blob/master/LICENSE).
-
 ## Contributing
 
 If you like the idea behind Vue Storefront and want to become a contributor - do not hesitate and check our [list of the active issues](https://github.com/DivanteLtd/vue-storefront/issues) or contact us directly via contributors@vuestorefront.io.
@@ -263,7 +270,7 @@ Vue Storefront is a Community effort brought to You by our great Core Team and s
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://divante.co/">
+        <a href="https://divante.com/">
           <img
             src="https://divante.co/about us/LOGO.png"
             alt="Divante"
@@ -507,10 +514,10 @@ Vue Storefront is a Community effort brought to You by our great Core Team and s
         </a>
       </td>
          <td align="center" valign="middle">
-        <a href="https://www.badger.blue/">
+        <a href="https://www.codilar.com/">
           <img
-            src="https://divante.co/partners/Vue-Storefront/BlueBadger-Logo.png"
-            alt="Badger Blue"
+            src="https://divante.co/partners/Vue-Storefront/codilar_logo.png"
+            alt="Codilar"
             height="50"
           >
         </a>
@@ -788,10 +795,10 @@ Vue Storefront is a Community effort brought to You by our great Core Team and s
         </a>
 </td>
   <td align="center" valign="middle"> 
-<a href="">
+<a href="https://www.caupo.se/">
           <img
-            src=""
-            alt=""
+            src="https://divante.com/partners/Vue-Storefront/Caupo_logo_2019.svg"
+            alt="Caupo"
             height="40"
           >
         </a>
@@ -836,3 +843,7 @@ If you like to become our Partner just let us know via contributors@vuestorefron
 <img width="880" alt="Vue Storefront - Annimations in the sidebar cart" src="https://user-images.githubusercontent.com/18116406/33559769-2840fb70-d90e-11e7-8f2b-298f35d1b412.gif">
 
 <img width="880" alt="Vue Storefront - Annimations on producy card" src="https://user-images.githubusercontent.com/18116406/33560504-3105dac6-d910-11e7-847d-70ef8e944321.gif">
+
+## The license
+
+Vue Storefront source code is completely free and released under the [MIT License](https://github.com/DivanteLtd/vue-storefront/blob/master/LICENSE).

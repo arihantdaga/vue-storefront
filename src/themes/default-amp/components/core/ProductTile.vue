@@ -106,6 +106,7 @@ export default {
 
 $bg-secondary: color(secondary, $colors-background);
 $border-secondary: color(secondary, $colors-border);
+$theme-secondary: color(secondary, $colors-theme);
 $color-white: color(white);
 
 .product {

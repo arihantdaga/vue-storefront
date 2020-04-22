@@ -1,7 +1,17 @@
 {
-  "lerna": "3.14.1",
   "version": "1.10.0",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "registry": "https://registry.npmjs.org/"
+  "registry": "https://registry.npmjs.org/",
+  "packages": [
+    "core",
+    "core/i18n",
+    "src/extensions/*",
+    "src/modules/*",
+    "src/themes/*",
+    "docs",
+    "core/modules/*",
+    "packages/*",
+    "test/unit"
+  ]
 }
